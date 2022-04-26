@@ -69,7 +69,12 @@
  - 随着时间推进，level 增加。level代表我们的投票治理权。
  - 一个pizza nft相当于一个物品。它里面包含若干子属性：
 	
-	- 等级。（用于进化）
+	- 等级。（用于进化、用于治理权）
+	- 代币数目。可转移。
+		完整 pizza 是100%。必须由**1万**种不同代币才能成为满pizza。以纪念1万枚比特币。
+		当不足100%时显示svg是**一片**pizza。如图：
+		![一片pizza](https://media1.thehungryjpeg.com/thumbs2/800_3492505_22d99419e3ed48a48016e1f1f8449b24f45df396_pizza-clip-art-fast-food-svg-food-files.jpg)
+		大家买来组合，直到1万种代币，才可成为完整pizza。
 	- *（其他可拆卸属性玩法待定，还没想到）*
 	 
 - 一个pizza  nft本身包含一些特殊信息。属于整个 nft 全局所有。不可转移、不可拆分。
